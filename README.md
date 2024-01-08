@@ -7,7 +7,7 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="#-getting-started">🤝 Contribute</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/pheralb_">🐦 Twitter</a>
+<a href="https://twitter.com/maikonalexandre">🐦 Twitter</a>
 
 ![GitHub stars](https://img.shields.io/github/stars/maikonalexandre/whatsemoji-extension)
 ![GitHub issues](https://img.shields.io/github/issues/maikonalexandre/whatsemoji-extension)
