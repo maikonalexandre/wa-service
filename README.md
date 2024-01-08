@@ -33,7 +33,7 @@ yarn install
 
 4. Crie um **.env** arquivo com o seguinte conteudo:
 
-> 🚧 As variaveis ambientes precisam estar de acordo com [schema](https://github.com/maikonalexandre/wa-service/.env.exemple).
+> 🚧 As variaveis ambientes precisam estar de acordo com o arquivo **.env.exemple**
    
 ```bash
 # Auth config
